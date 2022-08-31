@@ -41,10 +41,11 @@ The primary tools which I have been used for cleaning the data was R. I have upl
 Combine the data from the multiple datasets and make a resultant data set where we need to perform some calculations and conduct descriptive analysis.
 1.	We need to make the columns names are unique and consistent.
 2.	Filter the columns by removing the unwanted columns.
-3.	Remove duplicate rows and also the cells which consists of ‘N/A’ values.
-4.	Calculate the ride length.
-5.	Calculate the average ride time by each day of members vs casual riders
-6.	Comparing  members and casual users 
+3.	Calculate the ride length.
+4.	Calculate the average ride time by each day of members vs casual riders
+5.	Comparing  members and casual users 
+
+
 I have visualized the above data set using Tableau. You can find the link here.
 
 
