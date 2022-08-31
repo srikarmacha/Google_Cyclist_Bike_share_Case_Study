@@ -29,12 +29,13 @@ There are no issues of bias or credibility with the above datasets. I found that
 
 **Process Phase**
 
-The primary tools which I have been used for cleaning the data was R. I have uploaded the datasets into R and figured out some concerns which I need to need to rectify in this phase.
+The primary tools which I have been used for cleaning the data was R. I have uploaded the datasets into R and figured out some concerns which I need to need to rectify in this phase. You can find my R Analysis file [here] (https://github.com/srikarmacha/Google_Cyclist_Bike_share_Case_Study/blob/c69d92b16c14e5f91d54e85c08eabb87410853e9/Data_Analysis.R)
 1.	Need to remove duplicate rows.
 2.	Removed rows with null values .
 3.	Altered the variable names.
 4.	Created a new column for calculating the ride length of each ride.
 5.	Need to main the consistency between the column names and match the data types of every column with respective dataset.
+
 
 **Analyze and Share** 
 
@@ -46,7 +47,7 @@ Combine the data from the multiple datasets and make a resultant data set where 
 5.	Comparing  members and casual users 
 
 
-I have visualized the above data set using Tableau. You can find the link here.
+I have visualized the above data set using Tableau. You can find the link [here].
 
 
 
