@@ -29,7 +29,8 @@ There are no issues of bias or credibility with the above datasets. I found that
 
 **Process Phase**
 
-The primary tools which I have been used for cleaning the data was R. I have uploaded the datasets into R and figured out some concerns which I need to need to rectify in this phase. You can find my R Analysis file [here] 
+The primary tools which I have been used for cleaning the data was R. I have uploaded the datasets into R and figured out some concerns which I need to need to rectify in this phase. You can find my R Analysis file [here](https://github.com/srikarmacha/Google_Cyclist_Bike_share_Case_Study/blob/70d3936805232a4ed5f73c8a21102e51b12f7d29/Data_Analysis.R).
+
 1.	Need to remove duplicate rows.
 2.	Removed rows with null values .
 3.	Altered the variable names.
