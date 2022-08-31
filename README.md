@@ -48,7 +48,7 @@ Combine the data from the multiple datasets and make a resultant data set where 
 5.	Comparing  members and casual users 
 
 
-I have visualized the above data set using Tableau. You can find the link [here] (https://public.tableau.com/views/GoogleDataAnalyticsCapstoneProject_16613537263150/Monthly_Ridelength?:language=en-US&:display_count=n&:origin=viz_share_link)
+I have visualized the above data set using Tableau. You can find the link [here](https://public.tableau.com/views/GoogleDataAnalyticsCapstoneProject_16613537263150/Monthly_Ridelength?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 
